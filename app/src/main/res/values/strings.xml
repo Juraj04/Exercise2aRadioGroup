@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise2a</string>
+    <string name="rb1Name">Meatballs</string>
+    <string name="rb2Name">Chicken</string>
+    <string name="rb3Name">Fish</string>
+    <string name="rb4Name">Steak</string>
+    <string name="rb5Name">Carrots</string>
+    <string name="button1Name">Select</string>
+</resources>
